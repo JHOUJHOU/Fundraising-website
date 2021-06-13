@@ -1,0 +1,40 @@
+
+/* 背景顏色 */
+
+*,body {
+    font-family: 'NotoSansCJKtc-Bold', sans-serif;
+}
+.bg-1{
+    background: #FFDF65;
+}
+.bg-2{
+    background: #f7f7f7;
+}
+
+/* 文字顏色 */
+.tc-1{
+    color:#636057;
+}
+.tc-2{
+    color: #858377;
+}
+.tc-3{
+    color: #494846;
+}
+
+/* 距離 */
+.pb-1{
+    padding-bottom: 8px; 
+}
+.pb-2{
+    padding-bottom: 16px; 
+}
+/* 邊框 */
+.bbg-1{
+    border-left: 5px solid  #FFDF65;
+}
+
+.nav .active {
+    font-weight: bold;
+    border-bottom: 2px solid #ffc107;
+}
